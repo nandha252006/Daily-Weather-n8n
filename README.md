@@ -17,7 +17,7 @@ The goal of this project is to demonstrate workflow automation using n8n, API in
 
 ## Outcome
 
-![Workflow Diagram](n8n-workflow/20260109_13h47m40s_grim.png)
+![Workflow Diagram](n8n-workflow/20260109_15h07m42s_grim.png)
 
 
 ## Workflow Description
